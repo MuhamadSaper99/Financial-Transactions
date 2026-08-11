@@ -205,7 +205,7 @@ The final Data Warehouse was designed using a **Star Schema** optimized for anal
 
 ## Star Schema
 
-![Star Schema](Star%20Schema.png)
+![Star Schema](StarSchema.png)
 
 ---
 
